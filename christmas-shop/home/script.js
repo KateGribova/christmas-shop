@@ -434,7 +434,7 @@ const JsonGifts = `[
 
 let gifts = JSON.parse(JsonGifts);
 
-const DATE_NY = new Date(Date.UTC(2025,0,1,0,0,0));
+const DATE_NY = new Date(Date.UTC(2026,0,1,0,0,0));
 const TOTAL_WIDTH_SLIDER = 1993;
 
 function updateTime(){
